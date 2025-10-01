@@ -1,3 +1,6 @@
+##  Demo del Proyecto
+
+![Demo del detector de objetos](gif/yolotrol.gif)
 # Proyecto de Detección y Análisis de Perfiles
 
 Este proyecto es un sistema integral para detectar personas en un video, analizar sus características demográficas y de estilo, y visualizar los perfiles resultantes en una interfaz web interactiva.
