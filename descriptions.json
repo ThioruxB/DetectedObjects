@@ -1,0 +1,612 @@
+[
+  {
+    "imagen": "person_1.jpg",
+  "rango_de_edad": {
+    "minima": 38,
+    "maxima": 48
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia hispana o latina, de complexión media, con cabello corto y oscuro y bigote. Viste de manera informal con ropa oscura (polo, pantalones y chaleco o chaqueta sobre los hombros).",
+  "perfil_de_consumidor": "Consumidor práctico y casual. Su estilo de vestir sugiere una preferencia por la comodidad y la funcionalidad sobre las tendencias de moda. Podría ser leal a marcas conocidas que ofrezcan una buena relación calidad-precio para uso diario."
+  },
+  {
+    "imagen": "person_2.jpg",
+  "rango_de_edad": {
+    "minima": 60,
+    "maxima": 70
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica, de edad avanzada y complexión robusta. Tiene cabello corto y canoso, y lleva gafas. Viste de manera informal con un suéter o sudadera de color gris y pantalones de mezclilla.",
+  "perfil_de_consumidor": "Consumidor que prioriza la comodidad y la practicidad. Su estilo es funcional y tradicional, lo que sugiere una preferencia por marcas consolidadas que ofrezcan prendas duraderas y confortables. No parece seguir las tendencias de la moda."
+  },
+  {
+    "imagen": "person_3.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media. Tiene cabello corto y oscuro y lleva gafas. Viste con un estilo 'smart casual' que incluye una camisa de color claro debajo de un suéter azul, pantalones oscuros y zapatos de vestir de color marrón.",
+  "perfil_de_consumidor": "Consumidor que se inclina por un estilo de vestir profesional pero relajado ('business casual'). Su atuendo sugiere que valora la presentación y la calidad, eligiendo prendas clásicas y versátiles que se adaptan tanto a un entorno de oficina como a un evento social. Podría ser cliente de marcas que ofrecen una estética pulcra y atemporal."
+  },
+  {
+    "imagen": "person_4.jpg",
+  "rango_de_edad": {
+    "minima": 28,
+    "maxima": 38
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia hispana, latina o afrodescendiente, de complexión robusta. Tiene el cabello corto y oscuro con un corte de estilo degradado y lleva barba. Viste de manera informal con un atuendo completamente negro (camiseta y pantalones), lleva una mochila y calza zapatillas deportivas de dos tonos. Se le observa mirando su teléfono móvil.",
+  "perfil_de_consumidor": "Consumidor con un estilo urbano y moderno. Su elección de un atuendo monocromático, combinado con zapatillas de deporte de moda y una mochila, sugiere una preferencia por la ropa de calle ('streetwear') y las marcas que proyectan una imagen actual y funcional. Su atención al móvil podría indicar que es un consumidor tecnológicamente hábil, posiblemente influenciado por tendencias en línea y redes sociales."
+  },
+  {
+    "imagen": "person_5.jpg",
+  "rango_de_edad": {
+    "minima": 45,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión robusta. Tiene el cabello corto y oscuro. Viste de manera informal con una chaqueta acolchada de color oscuro sobre un suéter y pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidor enfocado en la funcionalidad y la comodidad, especialmente en climas más fríos. Su elección de una chaqueta acolchada y ropa oscura sugiere una preferencia por prendas prácticas y duraderas. Es probable que compre en tiendas que ofrecen una buena relación calidad-precio y ropa versátil para el día a día, sin un gran énfasis en las últimas tendencias de la moda."
+  },
+  {
+    "imagen": "person_6.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica, de complexión robusta o grande. Tiene el cabello muy corto o rapado. Viste de manera informal y urbana con una sudadera con cremallera de color negro y detalles grises en los hombros, pantalones de mezclilla grises con roturas y zapatillas blancas. Se le observa hablando por teléfono mientras sostiene un cigarrillo.",
+  "perfil_de_consumidor": "Consumidor de estilo casual y urbano. Su atuendo, que incluye jeans desgastados y una sudadera con capucha, sugiere una preferencia por la moda cómoda y contemporánea. Podría sentirse atraído por marcas que ofrecen ropa de calle ('streetwear') y que proyectan una imagen relajada y actual. La combinación de elementos indica un interés por las tendencias actuales dentro de la moda informal."
+  },
+  {
+    "imagen": "person_7.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de espaldas, de complexión media. Tiene cabello corto y oscuro. Viste con una chaqueta o cazadora oscura (posiblemente azul marino o negra) y pantalones de color claro (aparentemente beige o caqui).",
+  "perfil_de_consumidor": "Consumidor que opta por un estilo clásico e informal-elegante. La combinación de una chaqueta oscura y pantalones claros sugiere una preferencia por un vestuario versátil y atemporal, adecuado para diversas ocasiones. Es probable que priorice la calidad y el ajuste, y sea cliente de marcas de ropa casual 'premium' o tradicional que ofrezcan prendas de fondo de armario."
+  },
+  {
+    "imagen": "person_8.jpg",
+  "rango_de_edad": {
+    "minima": 45,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia asiática o hispana, de complexión media. Tiene el cabello corto y oscuro. Viste de manera informal con una sudadera con capucha o jersey de media cremallera de color azul grisáceo y pantalones de mezclilla.",
+  "perfil_de_consumidor": "Consumidor que valora la comodidad y la funcionalidad. Su estilo de vestir es casual y práctico, lo que indica una preferencia por prendas sencillas y duraderas para el uso diario. Es probable que sea leal a marcas que ofrecen una buena relación calidad-precio y ropa cómoda sin seguir las tendencias de la moda."
+  },
+  {
+    "imagen": "person_9.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre visto de espaldas, de complexión media a robusta. Tiene el cabello corto y oscuro. Viste una chaqueta oscura con detalles blancos, pantalones cargo o de lona de color claro (beige o gris claro) y lleva una mochila o bandolera. En el fondo, se observa a otra persona de perfil con ropa oscura.",
+  "perfil_de_consumidor": "Consumidor con un enfoque en la practicidad y el estilo utilitario. La elección de pantalones cargo y una mochila sugiere un estilo de vida activo o la necesidad de llevar consigo varios objetos. Prefiere la ropa funcional y cómoda, posiblemente de marcas que ofrecen durabilidad y un estilo casual y relajado, como las de ropa para actividades al aire libre o de trabajo."
+  },
+  {
+    "imagen": "person_10.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "La imagen es muy borrosa y muestra una escena confusa, posiblemente una caída o altercado. Se distingue una persona en el suelo o agachada. Parece ser un hombre de complexión media, con cabello oscuro. Viste una chaqueta oscura sobre una prenda interior de color rojizo o granate y pantalones oscuros. Cerca de él se ven las piernas y el calzado de otras personas.",
+  "perfil_de_consumidor": "Debido a la baja calidad de la imagen y la naturaleza caótica de la escena, es muy difícil determinar un perfil de consumidor. La vestimenta parece ser casual y funcional, típica para el día a día, sin indicar preferencias por marcas o estilos específicos. El perfil se inclinaría hacia un consumidor práctico que no prioriza la moda."
+  },
+  {
+    "imagen": "person_11.jpg",
+  "rango_de_edad": {
+    "minima": 28,
+    "maxima": 40
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión media y cabello largo y oscuro. En la imagen borrosa, se le ve abrazando a la otra persona. Viste ropa oscura.",
+  "perfil_de_consumidor": "Su perfil es difícil de determinar debido a la baja calidad de la imagen y la situación. Su vestimenta parece ser casual y funcional, lo que sugiere un estilo práctico y discreto. Probablemente prefiere la comodidad y la versatilidad en su ropa para el día a día, sin un enfoque particular en seguir tendencias de moda."
+  },
+  {
+    "imagen": "person_12.jpg",
+  "rango_de_edad": {
+    "minima": 60,
+    "maxima": 70
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica, de edad avanzada y complexión robusta. Tiene cabello corto y canoso, y lleva gafas. Viste de manera informal con un suéter o sudadera de color gris y pantalones de mezclilla.",
+  "perfil_de_consumidor": "Consumidor que prioriza la comodidad y la practicidad. Su estilo es funcional y tradicional, lo que sugiere una preferencia por marcas consolidadas que ofrezcan prendas duraderas y confortables. No parece seguir las tendencias de la moda."
+  },
+  {
+    "imagen": "person_13.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello oscuro y de longitud media. Viste con una chaqueta oscura, pantalones de mezclilla y zapatillas oscuras mientras habla por teléfono.",
+  "perfil_de_consumidor": "Consumidor con un estilo 'smart casual'. La combinación de chaqueta y jeans sugiere que valora una apariencia cuidada pero relajada, adecuada tanto para entornos sociales como laborales informales. Es probable que prefiera marcas que ofrecen prendas clásicas y versátiles en lugar de seguir las últimas tendencias de la moda."
+  },
+  {
+    "imagen": "person_14.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 45
+  },
+  "genero": "Indeterminado",
+  "descripcion_demografica": "Persona en silla de ruedas, de complexión delgada o media y cabello corto de color castaño. El género no se puede determinar con certeza debido a la baja calidad de la imagen. Viste una chaqueta oscura con detalles de color claro (posiblemente turquesa) en la zona de los hombros y el pecho. Sostiene una bolsa de regalo blanca con un lazo o asa roja en su regazo.",
+  "perfil_de_consumidor": "El perfil es difícil de determinar. Su vestimenta es funcional y casual, lo que podría indicar una preferencia por la comodidad. La chaqueta con detalles de color podría sugerir una inclinación por marcas de ropa deportiva o para actividades al aire libre, que combinan funcionalidad con un toque de estilo. La bolsa de regalo indica participación en una ocasión social."
+  },
+  {
+    "imagen": "person_15.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de espaldas, de complexión media a robusta, con cabello corto y oscuro. Se encuentra sentado, posiblemente en la terraza de un restaurante o bar. Viste ropa oscura, probablemente una chaqueta o un suéter.",
+  "perfil_de_consumidor": "Es muy difícil de determinar debido a la mala calidad de la imagen y la falta de detalles. Su vestimenta oscura y simple sugiere un perfil de consumidor práctico que no busca llamar la atención. El hecho de que se encuentre en un local de ocio indica que es un consumidor de servicios de restauración o entretenimiento."
+  },
+  {
+    "imagen": "person_16.jpg",
+  "rango_de_edad": {
+    "minima": 38,
+    "maxima": 48
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello largo y de color castaño claro o rubio. Viste de manera informal con una prenda superior oscura, pantalones de mezclilla de lavado claro y zapatillas deportivas oscuras. Lleva un bolso de hombro de color blanco.",
+  "perfil_de_consumidor": "Consumidora con un estilo casual y funcional. Su atuendo, basado en prendas básicas como jeans y zapatillas, sugiere una preferencia por la comodidad y la practicidad en el día a día. Probablemente valora la versatilidad y la durabilidad en su ropa, optando por marcas que ofrecen básicos de calidad en lugar de seguir las tendencias de moda pasajeras."
+  },
+  {
+    "imagen": "person_17.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 40
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión delgada a media y cabello oscuro. Viste un atuendo completamente oscuro, que parece consistir en una chaqueta y pantalones ajustados, junto con calzado oscuro.",
+  "perfil_de_consumidor": "Consumidora con un estilo urbano y minimalista. Su preferencia por un atuendo monocromático y oscuro sugiere que valora la versatilidad y una estética moderna y discreta. Podría ser cliente de marcas que ofrecen básicos de calidad y prendas funcionales que se pueden combinar fácilmente."
+  },
+  {
+    "imagen": "person_18.jpg",
+  "rango_de_edad": {
+    "minima": 45,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica, de complexión media a robusta. Lleva una gorra de béisbol negra y una camiseta oscura con un estampado gráfico en el pecho y un panel de un color diferente en el costado, junto con pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidor con un estilo marcadamente informal y relajado. La elección de una camiseta con estampado gráfico y una gorra sugiere un interés por la cultura popular (música, películas, etc.) o marcas específicas. Prioriza la comodidad y la autoexpresión en su vestimenta, comprando probablemente en tiendas que ofrecen ropa casual y urbana."
+  },
+  {
+    "imagen": "person_19.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "La imagen es muy borrosa. Se distingue una persona de complexión media vistiendo un atuendo completamente oscuro, que parece ser un conjunto deportivo o ropa casual. El calzado también es oscuro.",
+  "perfil_de_consumidor": "Debido a la pésima calidad de la imagen, es casi imposible definir un perfil. La elección de ropa oscura y aparentemente cómoda sugiere un perfil de consumidor enfocado en la practicidad y la funcionalidad por encima de la moda. Podría preferir marcas de ropa deportiva o casual que ofrezcan prendas versátiles para el uso diario."
+  },
+  {
+    "imagen": "person_20.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 55
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión media a robusta. Lleva gafas y tiene el cabello oscuro. Viste de manera informal con una chaqueta oscura con cremallera sobre una camiseta clara y pantalones de mezclilla de color claro.",
+  "perfil_de_consumidor": "Consumidora con un perfil práctico y casual. Su atuendo, compuesto por prendas básicas y cómodas como una chaqueta con cremallera y jeans, indica una preferencia por la funcionalidad sobre las tendencias de la moda. Probablemente compra en tiendas que ofrecen ropa versátil y duradera para el uso diario."
+  },
+  {
+    "imagen": "person_21.jpg",
+  "rango_de_edad": {
+    "minima": 45,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión robusta. Tiene el cabello corto y oscuro. Viste un suéter de cuello en V de color azul claro sobre una camisa blanca, pantalones de mezclilla de lavado claro y zapatillas deportivas. Lleva una mochila.",
+  "perfil_de_consumidor": "Consumidor con un estilo 'smart casual' o preppy. La combinación de suéter sobre camisa y jeans sugiere que valora una apariencia arreglada pero cómoda. La mochila indica un enfoque en la funcionalidad. Podría ser cliente de marcas que ofrecen prendas clásicas y de calidad, adecuadas tanto para el trabajo en un entorno relajado como para el ocio."
+  },
+  {
+    "imagen": "person_22.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 25
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello corto y oscuro. Viste de manera informal con una sudadera oscura con capucha y pantalones claros.",
+  "perfil_de_consumidor": "Consumidor joven con un estilo urbano y casual. Su elección de sudadera y pantalones claros es representativa de la moda juvenil actual, priorizando la comodidad y las marcas populares de 'streetwear' o deportivas. Es probable que esté influenciado por las tendencias de las redes sociales y compre en tiendas de moda rápida o departamentales."
+  },
+  {
+    "imagen": "person_23.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 40
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de complexión media. Viste ropa oscura, una gorra de camuflaje y lleva una mochila isotérmica de reparto de color rojo, lo que indica que trabaja como repartidor de comida a domicilio. Calza zapatillas deportivas.",
+  "perfil_de_consumidor": "Su perfil está directamente relacionado con su ocupación. Es un consumidor de equipamiento de trabajo funcional y resistente. Su vestimenta personal es casual y práctica, elegida por la comodidad necesaria para moverse y trabajar. No representa un perfil de consumidor enfocado en la moda, sino en la utilidad."
+  },
+  {
+    "imagen": "person_24.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica, de complexión robusta y cabello corto y oscuro. Se encuentra sentado en una mesa, en lo que parece ser un bar o restaurante, y viste una camisa tipo polo de color azul.",
+  "perfil_de_consumidor": "Consumidor de estilo clásico y casual. La elección de una camisa polo indica una preferencia por la comodidad y un aspecto tradicional y ordenado. Como cliente de un establecimiento de hostelería, también es un consumidor de ocio y experiencias sociales."
+  },
+  {
+    "imagen": "person_25.jpg",
+  "rango_de_edad": {
+    "minima": 16,
+    "maxima": 22
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven, de aparente etnia hispana o asiática. Tiene el cabello oscuro y viste de manera formal o semi-formal con una chaqueta o blazer oscuro sobre una camisa blanca.",
+  "perfil_de_consumidor": "Consumidor que viste de manera formal, ya sea por un código de vestimenta escolar, laboral (posiblemente en el sector servicios como hostelería) o para asistir a un evento. Su estilo sugiere una necesidad de prendas clásicas y de presentación. No parece ser una elección de vestimenta casual, sino una adaptada a un contexto específico."
+  },
+  {
+    "imagen": "person_26.jpg",
+  "rango_de_edad": {
+    "minima": 22,
+    "maxima": 32
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven de aparente etnia del sur de Asia, Oriente Medio o hispana, de complexión delgada. Tiene el cabello corto y oscuro y lleva barba. Viste un uniforme médico (pijama sanitario) de color azul y lleva una mochila.",
+  "perfil_de_consumidor": "Su vestimenta es un uniforme profesional, lo que indica que es un consumidor de ropa de trabajo específica para el sector sanitario. Su perfil de consumidor en este ámbito se centra en la funcionalidad, durabilidad y comodidad que requiere su profesión, más que en la moda. La mochila refuerza un perfil práctico y funcional."
+  },
+  {
+    "imagen": "person_27.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 28
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven de aparente etnia caucásica o hispana, de complexión media. Viste una sudadera oscura con capucha, pantalones claros y una gorra negra con un detalle amarillo en la parte delantera, llevada hacia atrás.",
+  "perfil_de_consumidor": "Consumidor joven con un claro interés en la moda urbana y el 'streetwear'. La elección de una sudadera con capucha y una gorra de marca (sugerida por los detalles) indica que valora la identidad de marca y las tendencias actuales. Su estilo es casual y cómodo, probablemente influenciado por la cultura juvenil, la música o el skateboarding."
+  },
+  {
+    "imagen": "person_28.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 25
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven de aparente etnia caucásica, hispana o asiática, de complexión media. Lleva una gorra de béisbol de color claro hacia atrás, gafas, y una camiseta oscura de manga larga con un estampado gráfico en el pecho. Camina con su brazo sobre el hombro de otra persona.",
+  "perfil_de_consumidor": "Consumidor joven con un estilo urbano y casual. Su elección de una camiseta con estampado gráfico y una gorra indica un interés en la cultura popular y las marcas de 'streetwear'. Valora la comodidad y la expresión personal, y es probable que sea un comprador de moda rápida o de marcas dirigidas a un público juvenil."
+  },
+  {
+    "imagen": "person_29.jpg",
+  "rango_de_edad": {
+    "minima": 20,
+    "maxima": 50
+  },
+  "genero": "Indeterminado",
+  "descripcion_demografica": "La imagen es extremadamente oscura y borrosa, lo que impide una descripción detallada. Se percibe la silueta de una persona de complexión media, vistiendo ropa oscura. No se pueden distinguir rasgos faciales, peinado ni detalles de la vestimenta.",
+  "perfil_de_consumidor": "Imposible de determinar. La calidad de la imagen es insuficiente para hacer cualquier tipo de análisis sobre su estilo o preferencias de consumo."
+  },
+  {
+    "imagen": "person_30.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 60
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre visto de espaldas, de complexión media. Tiene el cabello corto y oscuro. Viste una chaqueta o abrigo oscuro, pantalones oscuros y lleva una bolsa de compras o un bolso de color claro en la mano.",
+  "perfil_de_consumidor": "Consumidor con un perfil eminentemente práctico y funcional. Su vestimenta es sobria y tradicional, elegida por su utilidad y versatilidad para el día a día. No aparenta seguir tendencias de moda, sino que opta por un estilo clásico y discreto."
+  },
+  {
+    "imagen": "person_31.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 40
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media, sentado de perfil. Tiene el cabello corto y oscuro. Viste un chaleco oscuro sobre una sudadera con capucha de color claro (posiblemente blanca). Se le observa llevándose la mano a la boca, posiblemente fumando.",
+  "perfil_de_consumidor": "Consumidor con un estilo urbano y casual. La combinación de chaleco sobre sudadera es una elección popular en la moda 'streetwear', lo que sugiere que valora tanto la comodidad como las tendencias actuales. Podría ser cliente de marcas de ropa deportiva o de moda urbana que ofrecen prendas versátiles y funcionales."
+  },
+  {
+    "imagen": "person_32.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 30
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer joven de complexión delgada. Viste una prenda superior oscura (posiblemente un top o camiseta corta), pantalones cortos de color claro (beige o caqui) y calzado deportivo blanco. Lleva una mochila o bolso oscuro a la espalda.",
+  "perfil_de_consumidor": "Consumidora con un estilo de vida activo y un gusto por la moda casual y deportiva ('athleisure'). Su atuendo es funcional y cómodo, ideal para el movimiento. Es probable que sea cliente de marcas de ropa deportiva, de moda rápida o de 'streetwear' que se dirigen a un público joven y dinámico."
+  },
+  {
+    "imagen": "person_33.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media y cabello corto y oscuro. La imagen es muy borrosa, pero se le ve en el suelo o en una posición baja. Viste un suéter o camiseta de manga larga de color oscuro y pantalones de mezclilla.",
+  "perfil_de_consumidor": "Su perfil es difícil de determinar por la mala calidad de la imagen. Su vestimenta es casual y funcional, lo que sugiere un consumidor práctico que prioriza la comodidad en su día a día. Probablemente opta por prendas básicas y versátiles sin un enfoque particular en las tendencias de la moda."
+  },
+  {
+    "imagen": "person_34.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media y cabello corto y oscuro. En la imagen borrosa, se le observa en el suelo o en una posición baja. Viste una prenda superior de manga larga de color oscuro.",
+  "perfil_de_consumidor": "Debido a la baja calidad de la imagen y la situación poco clara, es difícil definir un perfil detallado. Su vestimenta, consistente en prendas básicas y oscuras, sugiere un consumidor práctico que prioriza la comodidad y la funcionalidad sobre las tendencias de la moda."
+  },
+  {
+    "imagen": "person_35.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Persona de espaldas o de perfil, de complexión media. La imagen es muy borrosa, pero parece un hombre sentado en una silla en una terraza o evento al aire libre. Viste ropa oscura, posiblemente una chaqueta o un abrigo.",
+  "perfil_de_consumidor": "Prácticamente imposible de determinar debido a la pésima calidad de la imagen. La vestimenta oscura y la situación (sentado en un evento o local) no ofrecen detalles suficientes. Se podría inferir que es un consumidor de servicios de ocio o restauración, con un estilo de vestir discreto y funcional."
+  },
+  {
+    "imagen": "person_36.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de complexión delgada a media, con cabello corto y oscuro. La imagen es muy borrosa, pero viste un atuendo completamente oscuro.",
+  "perfil_de_consumidor": "Es muy difícil determinar un perfil debido a la baja calidad de la imagen. La elección de ropa oscura y de corte simple sugiere un consumidor con un estilo práctico y minimalista, que probablemente valora la funcionalidad y la versatilidad por encima de las tendencias de moda."
+  },
+  {
+    "imagen": "person_37.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 60
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "La imagen es extremadamente borrosa y está obstruida. Se percibe la silueta de una persona de espaldas, probablemente un hombre, de complexión media y cabello corto. Viste ropa oscura y parece estar sentado en un entorno interior, como un bar o restaurante.",
+  "perfil_de_consumidor": "Imposible de determinar debido a la pésima calidad de la imagen. No se pueden apreciar detalles de su vestimenta o estilo que permitan hacer un análisis. El contexto sugiere que es un consumidor de servicios de ocio y restauración."
+  },
+  {
+    "imagen": "person_38.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 50
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de complexión media y cabello oscuro. Viste una prenda superior de color fucsia o rosa intenso debajo de una chaqueta o cárdigan oscuro. Parece llevar una bolsa a juego o con tonos rosados.",
+  "perfil_de_consumidor": "Consumidora con un estilo casual que incorpora toques de color. Su atuendo sugiere una preferencia por la comodidad sin renunciar a un elemento llamativo. Probablemente compra en grandes almacenes o tiendas de moda accesible que ofrecen prendas versátiles para el día a día."
+  },
+  {
+    "imagen": "person_39.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello corto y oscuro. Viste una prenda superior oscura de manga larga, pantalones de color claro (posiblemente mostaza o caqui) y lleva un bolso o mochila oscura al hombro.",
+  "perfil_de_consumidor": "Consumidor con un estilo casual y moderno. La elección de pantalones de un color llamativo combinado con una parte superior neutra sugiere que le gusta la moda y no teme destacar. Podría ser cliente de marcas que ofrecen prendas de tendencia y con un toque distintivo, manteniendo a la vez un perfil 'smart casual'."
+  },
+  {
+    "imagen": "person_40.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 55
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello oscuro y viste una chaqueta o cárdigan oscuro sobre una prenda interior también oscura, y pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidora con un estilo práctico y discreto. Su atuendo, compuesto por prendas básicas y oscuras, sugiere una preferencia por la comodidad y la versatilidad. Es probable que sea cliente de grandes almacenes o marcas que ofrecen ropa funcional para el día a día, sin un gran enfoque en las tendencias de moda."
+  },
+  {
+    "imagen": "person_41.jpg",
+  "rango_de_edad": {
+    "minima": 38,
+    "maxima": 48
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia caucásica o hispana, de complexión media. Tiene el cabello largo y oscuro. Viste un atuendo elegante pero informal ('smart casual') que consiste en un blazer oscuro sobre un top escotado y pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidora que valora la moda y una apariencia pulcra y moderna para ocasiones sociales. Su estilo 'smart casual' sugiere que compra prendas de tendencia que realzan su figura. Podría ser cliente de marcas de moda rápida de gama media o alta, así como de grandes almacenes que ofrecen las últimas colecciones."
+  },
+  {
+    "imagen": "person_42.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "La imagen es extremadamente borrosa y está obstruida. Se percibe la silueta de una persona de espaldas, probablemente un hombre de complexión media, con cabello corto. Viste ropa oscura y parece estar sentado en un bar o restaurante.",
+  "perfil_de_consumidor": "Imposible de determinar debido a la pésima calidad de la imagen. La vestimenta oscura no ofrece detalles. El contexto sugiere que es un consumidor de servicios de ocio y restauración, con un estilo de vestir probablemente práctico y discreto."
+  },
+  {
+    "imagen": "person_43.jpg",
+  "rango_de_edad": {
+    "minima": 20,
+    "maxima": 60
+  },
+  "genero": "Indeterminado",
+  "descripcion_demografica": "La imagen es extremadamente borrosa y de muy baja resolución. Solo se aprecia una silueta oscura de una persona de complexión indeterminada, vista de lejos y caminando. Es imposible discernir cualquier rasgo o detalle.",
+  "perfil_de_consumidor": "Imposible de determinar. La calidad de la imagen es insuficiente para realizar cualquier tipo de análisis sobre su estilo o preferencias de consumo."
+  },
+  {
+    "imagen": "person_44.jpg",
+  "rango_de_edad": {
+    "minima": 20,
+    "maxima": 40
+  },
+  "genero": "Indeterminado",
+  "descripcion_demografica": "La imagen es muy oscura y borrosa. Se distingue una persona de complexión media, vistiendo ropa oscura y lo que parece ser un gorro o sombrero oscuro (posiblemente verde o negro). El género y otros rasgos son indistinguibles.",
+  "perfil_de_consumidor": "Imposible de determinar con precisión debido a la pésima calidad de la imagen. La vestimenta oscura y el uso de un gorro sugieren un estilo casual y funcional, posiblemente urbano. El perfil sería el de un consumidor que prioriza la comodidad y un estilo discreto."
+  },
+  {
+    "imagen": "person_45.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 45
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Persona de espaldas, de complexión delgada a media. La imagen es muy borrosa. Viste un atuendo completamente oscuro, que parece consistir en una falda y una prenda superior, con un cinturón o detalle blanco a la altura de la cintura.",
+  "perfil_de_consumidor": "Consumidora con un estilo alternativo o único. Su atuendo, completamente oscuro y con una falda, sugiere una preferencia por una estética no convencional, posiblemente de inspiración gótica o punk. Es probable que no siga las tendencias de la moda convencional, prefiriendo tiendas especializadas o de segunda mano para definir su estilo personal."
+  },
+  {
+    "imagen": "person_46.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 50
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de aparente etnia hispana o caucásica, de complexión media a robusta. Tiene el cabello oscuro. Viste una blusa o camiseta de manga corta de color claro (posiblemente con un estampado) y pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidora con un estilo práctico y casual. Su atuendo sugiere una preferencia por la comodidad y la ropa funcional para el día a día. Es probable que compre en grandes almacenes o tiendas que ofrezcan prendas versátiles y asequibles sin un gran enfoque en las últimas tendencias."
+  },
+  {
+    "imagen": "person_47.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de complexión media, con cabello corto y oscuro. Viste una prenda exterior larga y oscura, que parece ser un abrigo largo o una túnica (como un 'thawb'), que le llega por debajo de las rodillas. Lleva pantalones oscuros. Debido a la extremadamente baja calidad de la imagen, es imposible determinar su etnia o rasgos faciales.",
+  "perfil_de_consumidor": "El perfil es difícil de definir. Si la prenda es un abrigo largo de moda, podría indicar un consumidor con un estilo clásico o alternativo. Si se trata de una vestimenta de carácter cultural o religioso, su perfil de compra se centraría en tiendas especializadas que satisfacen esas necesidades específicas, indicando un consumo influenciado por la identidad cultural o la fe."
+  },
+  {
+    "imagen": "person_48.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre alto de complexión media, con cabello corto y oscuro. Viste una prenda exterior larga y oscura, posiblemente un abrigo o una gabardina, sobre pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidor con un estilo clásico y potencialmente formal. La elección de un abrigo largo sugiere una preferencia por la ropa tradicional y atemporal. Podría ser un profesional que valora una imagen cuidada o simplemente prefiere prendas de vestir más estructuradas y duraderas en lugar de la moda casual."
+  },
+  {
+    "imagen": "person_49.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 45
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de complexión media, visto en una posición agachada o sentada en un entorno social. La imagen es muy borrosa. Viste un atuendo oscuro (posiblemente verde oscuro o negro) y zapatillas de deporte de color claro (blanco).",
+  "perfil_de_consumidor": "Consumidor con un estilo eminentemente casual y funcional. Su elección de un atuendo simple combinado con zapatillas deportivas sugiere una preferencia por la comodidad. Es probable que sea cliente de marcas de ropa deportiva o 'streetwear' que ofrecen prendas versátiles para el día a día."
+  },
+  {
+    "imagen": "person_50.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 45
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Persona de espaldas, de complexión delgada a media. La imagen es muy borrosa. Viste un atuendo completamente oscuro, que parece consistir en una falda y una prenda superior, con un cinturón o detalle blanco a la altura de la cintura.",
+  "perfil_de_consumidor": "Consumidora con un estilo alternativo o único. Su atuendo, completamente oscuro y con una falda, sugiere una preferencia por una estética no convencional, posiblemente de inspiración gótica o punk. Es probable que no siga las tendencias de la moda convencional, prefiriendo tiendas especializadas o de segunda mano para definir su estilo personal."
+  },
+  {
+    "imagen": "person_51.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 50
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de espaldas, de complexión media. La imagen es extremadamente borrosa. Viste ropa oscura y lleva una mochila y posiblemente un maletín o bolso en la mano.",
+  "perfil_de_consumidor": "Consumidor con un perfil eminentemente práctico y funcional. La elección de una mochila y ropa oscura sugiere que prioriza la utilidad y la comodidad, posiblemente para el trabajo, los estudios o los desplazamientos diarios. No se aprecian elementos que indiquen un interés por la moda."
+  },
+  {
+    "imagen": "person_52.jpg",
+  "rango_de_edad": {
+    "minima": 20,
+    "maxima": 40
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Persona de espaldas, probablemente una mujer, de complexión media. Viste un atuendo oscuro, que parece ser una chaqueta y pantalones, y calza zapatillas deportivas de color claro. Lleva una mochila de color claro (blanca o gris).",
+  "perfil_de_consumidor": "Consumidora con un estilo urbano y práctico. La combinación de ropa oscura, zapatillas deportivas y una mochila sugiere un enfoque en la comodidad y la funcionalidad para el día a día. Es probable que sea cliente de marcas de moda casual o deportiva que ofrecen productos versátiles."
+  },
+  {
+    "imagen": "person_53.jpg",
+  "rango_de_edad": {
+    "minima": 25,
+    "maxima": 40
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer vista de perfil y de espaldas, de complexión media. Tiene el cabello oscuro. Viste un atuendo oscuro y lleva botas altas (posiblemente hasta la rodilla) de color oscuro. Carga un bolso de hombro.",
+  "perfil_de_consumidor": "Consumidora con un estilo de vestir a la moda y arreglado, adecuado para una salida nocturna o un evento social. La elección de botas altas sugiere un interés en las tendencias y en crear un atuendo llamativo. Es probable que sea cliente de tiendas de moda que ofrecen ropa y accesorios de tendencia para ocasiones especiales."
+  },
+  {
+    "imagen": "person_54.jpg",
+  "rango_de_edad": {
+    "minima": 40,
+    "maxima": 60
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de espaldas, de complexión robusta. Se encuentra sentado en una mesa en lo que parece ser una terraza. Tiene el cabello corto y oscuro y viste una camisa o polo de color claro (amarillo pálido o beige).",
+  "perfil_de_consumidor": "Consumidor de estilo casual y tradicional. Su vestimenta sencilla sugiere una preferencia por la comodidad y la funcionalidad. Al estar en un local de hostelería, se perfila como un consumidor de ocio y servicios de restauración."
+  },
+  {
+    "imagen": "person_55.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 30
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre joven de complexión media, visto de espaldas. Viste una camiseta o sudadera oscura, pantalones claros (posiblemente jeans o de lona) y lleva una gorra.",
+  "perfil_de_consumidor": "Consumidor joven con un estilo urbano y casual. Su atuendo es representativo de la moda juvenil actual, priorizando la comodidad y las prendas versátiles. Es probable que compre en tiendas de moda rápida o departamentales que ofrecen básicos y tendencias populares."
+  },
+  {
+    "imagen": "person_56.jpg",
+  "rango_de_edad": {
+    "minima": 35,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de espaldas, de complexión robusta. Viste ropa oscura y lleva un bolso grande de color claro (blanco o beige) colgado del hombro.",
+  "perfil_de_consumidor": "Consumidor con un enfoque práctico y funcional. Su vestimenta es discreta, y el uso de un bolso grande sugiere la necesidad de transportar objetos de manera cómoda. No aparenta seguir tendencias de moda, optando por un estilo utilitario y confortable para sus actividades diarias."
+  },
+  {
+    "imagen": "person_57.jpg",
+  "rango_de_edad": {
+    "minima": 22,
+    "maxima": 35
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de espaldas y de perfil, de complexión delgada a media. Viste una chaqueta o prenda superior oscura, una falda corta y botas altas de color oscuro. Lleva un bolso al hombro.",
+  "perfil_de_consumidor": "Consumidora con un estilo moderno y consciente de la moda. La elección de una falda con botas altas indica una preferencia por atuendos de tendencia y una apariencia cuidada. Es probable que sea cliente de tiendas de moda rápida o marcas que ofrecen estilos juveniles y actuales."
+  },
+  {
+    "imagen": "person_58.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 55
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Persona de espaldas, de complexión media a robusta, sentada en una mesa en una terraza. La imagen es muy oscura. Viste ropa completamente oscura.",
+  "perfil_de_consumidor": "Es muy difícil de determinar. Su vestimenta oscura y casual sugiere un perfil práctico. El contexto indica que es un consumidor de servicios de ocio y restauración."
+  },
+  {
+    "imagen": "person_59.jpg",
+  "rango_de_edad": {
+    "minima": 30,
+    "maxima": 45
+  },
+  "genero": "Femenino",
+  "descripcion_demografica": "Mujer de espaldas, de complexión media y cabello oscuro. Viste una blusa o suéter con un estampado animal (leopardo) y pantalones oscuros.",
+  "perfil_de_consumidor": "Consumidora con un gusto por las tendencias y los estampados llamativos. Su elección de una prenda con estampado animal sugiere que no teme destacar y sigue la moda. Es probable que compre en tiendas de moda rápida o grandes almacenes que ofrezcan piezas de tendencia."
+  },
+  {
+    "imagen": "person_60.jpg",
+  "rango_de_edad": {
+    "minima": 18,
+    "maxima": 40
+  },
+  "genero": "Indeterminado",
+  "descripcion_demografica": "Persona de complexión delgada a media. La imagen solo muestra la parte inferior del cuerpo. Viste pantalones oscuros ajustados y calzado oscuro, posiblemente zapatillas deportivas.",
+  "perfil_de_consumidor": "Consumidor con un estilo práctico y minimalista. La elección de ropa oscura y ajustada sugiere una preferencia por prendas básicas, versátiles y cómodas, fáciles de combinar para el uso diario. El perfil se inclina hacia la funcionalidad por encima de las tendencias llamativas."
+  },
+  {
+    "imagen": "person_61.jpg",
+  "rango_de_edad": {
+    "minima": 28,
+    "maxima": 40
+  },
+  "genero": "Masculino",
+  "descripcion_demografica": "Hombre de aparente etnia caucásica o hispana, de complexión media, sentado en una mesa de exterior. Tiene el cabello corto y oscuro. Viste un chaleco oscuro sobre una sudadera con capucha de color claro. Se le observa llevándose la mano a la boca, posiblemente comiendo o fumando.",
+  "perfil_de_consumidor": "Consumidor con un estilo urbano y casual. La combinación de chaleco sobre sudadera es una elección popular en la moda 'streetwear', lo que sugiere que valora tanto la comodidad como las tendencias actuales. Podría ser cliente de marcas de ropa deportiva o de moda urbana. También es un consumidor de servicios de ocio y restauración."
+  }
+]

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor de Perfiles</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="particles-js"></div>
+    <header>
+        <div id="header-particles"></div>
+        <h1>Reporte de Perfiles de Consumidores</h1>
+    </header>
+    <main>
+        <div class="dashboard-container">
+            <div class="chart-container">
+                <h2>Histograma de Edades</h2>
+                <canvas id="ageChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h2>Distribución de Género</h2>
+                <canvas id="genderChart"></canvas>
+            </div>
+        </div>
+
+        <div class="filter-container">
+            <label for="person-select">Ver estadísticas por persona:</label>
+            <select id="person-select">
+                <option value="all">Todos</option>
+                <!-- Opciones de persona se insertarán aquí -->
+            </select>
+        </div>
+
+        <div class="carousel-container">
+            <div class="carousel-slider">
+                <!-- Las tarjetas de perfil se insertarán aquí dinámicamente -->
+            </div>
+            <button class="carousel-button prev" id="prevBtn">&#10094;</button>
+            <button class="carousel-button next" id="nextBtn">&#10095;</button>
+        </div>
+    </main>
+    <footer>
+        <div id="footer-particles"></div>
+        <p>Proyecto de Visualización de Datos</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
